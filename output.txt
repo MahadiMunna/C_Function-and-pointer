@@ -1,0 +1,4 @@
+Value of x = 10
+add of x = 000000000061FE14
+value of x with pointer = 10
+value of x after change with pointer = 20
